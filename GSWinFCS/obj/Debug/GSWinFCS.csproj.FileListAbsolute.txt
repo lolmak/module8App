@@ -1,0 +1,10 @@
+C:\Практика\3 курс\8 module\MyApp\GSWinFCS\GSWinFCS\bin\Debug\GSWinFCS.exe.config
+C:\Практика\3 курс\8 module\MyApp\GSWinFCS\GSWinFCS\bin\Debug\GSWinFCS.exe
+C:\Практика\3 курс\8 module\MyApp\GSWinFCS\GSWinFCS\bin\Debug\GSWinFCS.pdb
+C:\Практика\3 курс\8 module\MyApp\GSWinFCS\GSWinFCS\obj\Debug\GSWinFCS.csproj.AssemblyReference.cache
+C:\Практика\3 курс\8 module\MyApp\GSWinFCS\GSWinFCS\obj\Debug\GSWinFCS.Properties.Resources.resources
+C:\Практика\3 курс\8 module\MyApp\GSWinFCS\GSWinFCS\obj\Debug\GSWinFCS.csproj.GenerateResource.cache
+C:\Практика\3 курс\8 module\MyApp\GSWinFCS\GSWinFCS\obj\Debug\GSWinFCS.csproj.CoreCompileInputs.cache
+C:\Практика\3 курс\8 module\MyApp\GSWinFCS\GSWinFCS\obj\Debug\GSWinFCS.exe
+C:\Практика\3 курс\8 module\MyApp\GSWinFCS\GSWinFCS\obj\Debug\GSWinFCS.pdb
+C:\Практика\3 курс\8 module\MyApp\GSWinFCS\GSWinFCS\obj\Debug\GSWinFCS.Form1.resources
